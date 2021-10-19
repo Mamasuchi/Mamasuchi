@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jose
 - 👀 I’m interested in programming...
-- 🌱 I’m effiecient on c++/java/javafx/Python
+- 🌱 I’m effiecient on c++/java/javafx/Python/Flutter/Dart
 - 💞️ I’m looking to collaborate on projects
 - 📫 reach me through email...treesjose22@gmail.com
 
